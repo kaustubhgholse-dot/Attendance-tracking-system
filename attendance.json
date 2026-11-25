@@ -1,1 +1,14 @@
-
+{
+  "students": {
+    "57": "Kaustubh Gholse",
+    "65": "Sameer Gajjal",
+    "64": "Jinal Jain"
+  },
+  "attendance": {
+    "2026-11-25": {
+      "57": "A",
+      "64": "L",
+      "65": "P"
+    }
+  }
+}
